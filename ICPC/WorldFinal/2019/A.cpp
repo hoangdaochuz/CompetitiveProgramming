@@ -5,7 +5,7 @@ Problem:
 - In each row, items must be sorted in increasing order of `price`.
 - In each column, item in `front` row must have smaller height than item in
   `back` row.
-
+hello
 Idea:
 - Sort `front` and `back` rows in increasing order of price.
 - Construct the 2 permutations from left to right.
